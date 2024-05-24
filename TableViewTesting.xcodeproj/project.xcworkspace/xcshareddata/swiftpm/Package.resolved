@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "spmtableviewcellxib",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:brandonsmarthome/SPMTableViewCellXib.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "106fbdb74ad943cbb2d244d7b1229fa28d41486e"
+      }
+    }
+  ],
+  "version" : 2
+}
